@@ -1,0 +1,15 @@
+* {
+  font-family: Montserrat;
+}
+
+h1 {
+  font-size: 80px;
+  font-color: e0e0e0;
+}
+
+li {
+   display: inline-block;
+   width: 200px;
+   border: 1px solid black;
+   font-size: 20px;
+}
